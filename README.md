@@ -1,0 +1,1 @@
+A REST api for generating a poll using Spring Boot and Spring REST to learn REST concept on Spring. It can be used to generate a poll as well as cast a vote for any given poll. It also counts the total vote casted to all the option in the given poll.
